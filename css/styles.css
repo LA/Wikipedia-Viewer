@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+    background-color: black !important;
+}
+
+.item-container {
+    text-align: center;
+    margin: 1% 0 0 0;
+}
+
+#search-bar {
+    margin: 1% auto;
+}
+
+#random-btn {
+    font-family: 'Raleway', sans-serif;
+}
+
+#result-boxes {
+    text-align: center;
+}
+
+.result-box {
+    background-color: white;
+    padding: 1% 0 1% 0;
+}
